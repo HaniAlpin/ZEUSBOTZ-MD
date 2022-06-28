@@ -19,8 +19,8 @@ ${pickRandom(global.gombal)}
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '📍instagram',
-               url: instagram
+               displayText: '📍INSTAGTAM',
+               url: "https://instagram.com/en4y.pin"
              }
 
            },
